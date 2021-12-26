@@ -85,7 +85,7 @@ $max_arr = count($ob);
 
 // NEUE VARIANTE MIT API AUFRUF #################################################################
 
-$api_key = 'AIzaSyB8eHGnUp3bZfbGWilpYNMvXoAgbEIYRYY';
+$api_key = 'xxx';
 $url = 'https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId='.$_POST['name'].'&key='.$api_key.'';
 $json = file_get_contents($url);
 $json = json_decode($json, true); // Wandelt JSON in ARRAY um

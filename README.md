@@ -1,5 +1,6 @@
 # Yoga Roulette
 Yoga Roulette with frontend and backend
+![Yogaroulette](https://github.com/eYeWoRRy/yogaroulette/blob/master/YogaRoulette.gif)
 
 Als ich vor ein paar Jahren mit dem Yoga angefangen habe, wollte ich relativ bald dieses kleine Projekt in Angriff nehmen. Leider hat es etwas gedauert bis ich Zeit und Muse dazu gefunden habe.
 
